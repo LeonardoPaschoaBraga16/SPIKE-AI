@@ -37,8 +37,7 @@ Segue Links: https://huggingface.co; https://exa.ai
 
 As chaves deverão ser colocadas no campo "Secrets" do Google Colab, para assim então, permitir o acesso a plataforma
 
-
-
+![image](https://github.com/user-attachments/assets/4c6d7ee7-ca7e-4140-9d1c-a8acf6e3f4cc)
 
 ## Rodando o Sistema
 
